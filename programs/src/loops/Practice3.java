@@ -3,11 +3,12 @@ package loops;
 public class Practice3 {
 
 	public static void main(String[] args) {
-		        // print        
-		        //  1 
-				//  1 2 
-				//  1 2 3
-				//	1 2 3 4
+		        
+		 //print        
+		// 1 
+	   //  1 2 
+	   //  1 2 3
+	   //  1 2 3 4
 		
 		for(int i = 1; i < 5; i++) {
 			
