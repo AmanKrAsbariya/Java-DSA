@@ -4,7 +4,7 @@ public class Practice3 {
 
 	public static void main(String[] args) {
 		    
-		//print
+		// print
 		// 1
 		// 1 2
 		// 1 2 3

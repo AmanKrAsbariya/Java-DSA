@@ -5,7 +5,7 @@ public class Practice1 {
 	public static void main(String[] args) {
 		
 		//outer loop runs : 4 times , inner loop decrease by 1
-		//print
+		// print
 		// 1 2 3 4
 		// 5 6 7
 		// 8 9
