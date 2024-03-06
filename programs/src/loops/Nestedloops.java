@@ -5,6 +5,7 @@ public class Nestedloops {
 	public static void main(String[] args) {
 		
 		//syntax : for(){ for(){ } }; 
+		//generally, outer loop -> rows & inner loop -> column
 		
 		for(int i = 1; i<=4; i = i+1) {
 			System.out.println("Outer loop Starts");

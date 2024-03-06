@@ -10,9 +10,9 @@ public class Practice2 {
 		//		  4 5 6
 		//		  7 8 9 10
 		int k = 1;
-		for(int i = 2; i < 6; i++) {
+		for(int i = 1; i < 5; i++) {
 			
-		  for(int j = 1; j < i; j++) {
+		  for(int j = 1; j <= i; j++) {
 			System.out.print(k+"\t");
 			k++;
 				
